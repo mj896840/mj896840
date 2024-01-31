@@ -15,6 +15,4 @@
 ![Static Badge](https://img.shields.io/badge/csharp-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/cplusplus-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![asomu's github stats](https://github-readme-stats.vercel.app/api?username=asomu&show_icons=true)
-
 </center>
