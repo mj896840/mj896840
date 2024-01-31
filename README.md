@@ -1,16 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Hi,%20I'm%20Mark&fontSize=60)
 
-<!--
-**mj896840/mj896840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+👋 Hi, I’m Mark Jang
+👀 I’m interested in learning coding.
+👨‍🔧 I'm a RF engineer.
+```
 
-Here are some ideas to get you started:
+<center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Tech Stack
+
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/csharp-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cplusplus-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![asomu's github stats](https://github-readme-stats.vercel.app/api?username=asomu&show_icons=true)
+
+</center>
